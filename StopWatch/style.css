@@ -1,0 +1,27 @@
+.buttons{
+    height: 30px;
+    width: 80px;
+    background-color:rgb(44, 44, 207);
+    color:floralwhite;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#timer{
+    font-size: 50px;
+    color:rgb(20, 244, 154);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border: 5px solid rgb(0, 3, 2);
+    border-radius: 10px;
+    background-color: gray;
+}
